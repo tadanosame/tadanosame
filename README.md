@@ -11,8 +11,8 @@ Twitter: https://twitter.com/muryounosame
   <table>
     <tr>
       <td valign="top" align="center">
+        <h1 style="text-align:center;">Now Playing</h1>
         <a href="https://github.com/kittinan/spotify-github-profile">
-          <h1 style="text-align:center;">Now Playing</h1>
           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ky___ss&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
         </a>
       </td>
@@ -23,3 +23,4 @@ Twitter: https://twitter.com/muryounosame
     </tr>
   </table>
 </div>
+
