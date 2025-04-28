@@ -18,7 +18,7 @@ Twitter: https://twitter.com/muryounosame
       </td>
       <td valign="top" align="center">
         <h1 style="text-align:center;">Recently Played</h1>
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=ky___ss&width=600" />
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=ky___ss&width=600&count=7" />
       </td>
     </tr>
   </table>
