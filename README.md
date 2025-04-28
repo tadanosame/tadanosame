@@ -2,11 +2,11 @@
 ### My name is "tadanosame"
 
 まだまだ未熟の駆け出し高専生(4年生)
-## Links
+
+## Links🔗
 Twitter: https://twitter.com/muryounosame
 
-## My Spotify Info
-
+## My Spotify Info🎧
 <div align="center">
   <table>
     <tr>
